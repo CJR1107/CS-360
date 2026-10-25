@@ -1,2 +1,5 @@
-# CS-360
-Mobile Architect & Programming
+# Warehouse Inventory App – CS 360 - Corey Ralls
+
+For Project Three, I made a warehouse inventory app to help workers keep track of items and quantities. Users can create an account, log in, add or remove items, update quantities, and turn on text alerts when something runs out. I used a login screen, inventory list, item form, and notification settings. I kept the buttons simple so users could find what they needed.
+
+I started with the layouts and then worked on the code one feature at a time. I used SQLite to save inventory changes even after closing the app. To check my work, I focused on login, inventory updates, saved data, and SMS permissions. Testing these features matters because it helps catch problems before someone uses the app. One challenge was making the text alerts optional so the inventory features would still work without SMS permission. I think I did well with the inventory screen and database because they work together to keep items organized. In future projects, I'll keep planning first and testing as I go.
